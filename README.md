@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer engineer from Pakistan who is passionate about building scaleable and efficient applications.
+I'm a Software Engineer who is passionate about building scaleable and efficient applications.
 I enjoy diving deep into new concepts and applying them to my day to day work.
 
 * I'm currently pursuing a master's degree in Computer and Systems Engineering from [Technische Universität Ilmenau](https://www.tu-ilmenau.de/).
