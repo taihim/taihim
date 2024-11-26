@@ -6,6 +6,7 @@ I enjoy diving deep into new concepts and applying them to my day to day work.
 * I'm currently pursuing a master's degree in Computer and Systems Engineering from [Technische Universität Ilmenau](https://www.tu-ilmenau.de/).
 * I occasionally write articles about things I've learned, which you can read on [medium](https://medium.com/@tai.him18).
 * I am happy to collaborate on any open-source libraries.
+* I am currently learning about graphics programming.
 
 You can connect with me on [Linkedin](https://www.linkedin.com/in/taihim/) or via [email](mailto:tai.him18@gmail.com)
 
